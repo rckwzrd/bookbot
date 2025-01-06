@@ -1,10 +1,6 @@
 # bookbot
 
-<<<<<<< HEAD
 Simple python script for counting words and characters in text using standard library tools.
-=======
-Simple python script for counting words and characters in text using standard library string operations.
->>>>>>> origin
 
 Some things this script is missing:
 
