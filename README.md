@@ -1,5 +1,7 @@
 # bookbot
 
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 Simple python script for counting words and characters in text using standard library tools.
 
 Some things this script is missing:
